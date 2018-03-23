@@ -18,8 +18,8 @@ marquee {
  background: yellow;
  color: orange;
  border: 1px solid orange;
-	color:rgb(255,0,255);
-        font-size:50px;
+font-color:rgb(255,0,255);
+font-size:50px;
 }
 	header{
 	
