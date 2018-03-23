@@ -1,0 +1,30 @@
+<style>
+body {
+    background-color: linen;
+}
+
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+h2{
+	color: rgb(0,255,0);
+}
+
+marquee {
+ height: 50px;	
+ overflow: hidden;
+ position: relative;
+ background: yellow;
+ color: orange;
+ border: 1px solid orange;
+}
+	header{
+	color:rgb(0,0,255);
+        font-size:20px;
+	}
+}
+	footer{
+	color:purple;
+	}
+</style>
