@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-    color: maroon;
+    color: magenta;
     margin-left: 40px;
 } 
 h2{
@@ -21,9 +21,19 @@ marquee {
 font-color:rgb(255,0,255);
 font-size:50px;
 }
-	header{
-	
+.iamhigh{
+font-size:30px;
+font-color:(255,255,0);
+opacity:.4;
+font-weight:bold;
+font-style:italic;
 	}
+#flashpoint{
+overflow:visible;
+position:initial;
+	border: 0.5px solid black;
+	font-color:maroon;
+	font-size:20px;
 }
 	footer{
 	color:purple;
