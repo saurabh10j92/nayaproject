@@ -168,7 +168,7 @@ sub, sup { line-height: 0; }
 [role="banner"] h1:after { content: "FUTURE OF WARRIORS"; visibility: visible; display: block; color: #aaa; letter-spacing: 0.5em; font-size: 1.4rem; font-weight: normal; margin: 0.5em 0 3em; color: rgba(24, 46, 79, 0.4); }
 
 [role="banner"] h2 { visibility: hidden; display: none; text-transform: uppercase; font-weight: 400; color: rgba(41, 78, 134, 0.5); }
-[role="banner"] h2:after { content: "Forged from blood and sweats"; visibility: visible; display: block; }
+[role="banner"] h2:after { content: "Forged from blood and sweat"; visibility: visible; display: block; }
 
 
 
